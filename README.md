@@ -1,4 +1,4 @@
-Title: A Deep Learning Approach for Multi-Class Classification of Corneal Ulcers - Graphs
+Title: Corneal Ulcer Graphs
 
 Grade-Categories-Type: https://www.overleaf.com/read/ngcnzmnswtpp#b819f8
 Validation-Loss: https://www.overleaf.com/read/fjjprqtvxxjc#df5bbb
